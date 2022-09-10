@@ -1,11 +1,12 @@
 <!-- _navbar.md -->
 * [首页](/)
 
-* [软件测试基础](Fundamentals/README.md)
-    * [用例设计]()
-    * [测试方法]()
-  
-* [自动化测试](AotuTest/README.md)
-    * [UI自动化测试]()
-    * [Web自动化测试]()
-    * [接口自动化测试]()
+* [编程语言]()
+  * [Java]()
+  * [Python]()
+
+* [生活]()
+
+* [工具](Tools)
+  * [Typora快捷键](Tools/typora快捷键.md)
+* [关于]()
