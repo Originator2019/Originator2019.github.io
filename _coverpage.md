@@ -1,13 +1,13 @@
 <!-- _coverpage.md -->
 
 
-<img src="/image/sister.jpg" width="50%" style="border-radius: 2%">
-
+<img src="image/xly.jpg" width="50%" style="border-radius: 100%" alt="Smiley face">
+// 首页图片
 <br>
 <br>
-<font size="8" face="Spencerian" color="black">
+<div style="color: black ; font-size:45px ">
 Work hard for your dreams 
-</font>
+</div>
 <br>
 <br>
 <font size="8" face="华文行楷" color="black">
