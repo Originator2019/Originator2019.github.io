@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-<img src="image/sister.jpg" width="50%" style="border-radius: 2%">
+<img src="/image/sister.jpg" width="50%" style="border-radius: 2%">
 
 <br>
 <br>
