@@ -10,7 +10,7 @@ Work hard for your dreams
 </div>
 <br>
 <br>
-<font size="8" face="华文行楷" color="black">
+<font size="38" face="华文行楷" color="black">
 为梦想而奋斗</font>
 
 <br>
