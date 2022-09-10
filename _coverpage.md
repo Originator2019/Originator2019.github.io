@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-<img src="image/201001110256-3.jpg" width="495" height="275"/>
+<img src="image/201001110256-3.jpg" width="50%" style="border-radius: 2%">
 
 <br>
 <br>
