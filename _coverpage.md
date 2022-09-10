@@ -1,0 +1,32 @@
+<!-- _coverpage.md -->
+
+
+<img src="image/201001110256-3.jpg" width="495" height="275"/>
+
+<br>
+<br>
+<font size="8" face="Spencerian" color="black">
+Work hard for your dreams 
+</font>
+<br>
+<br>
+<font size="8" face="华文行楷" color="black">
+为梦想而奋斗</font>
+
+<br>
+<br>
+
+[//]: # (- <font size="6" face="华文行楷" color="black">简单、轻便 &#40;压缩后 ~21kB&#41;)
+
+[//]: # (- 无需生成 html 文件)
+
+[//]: # (- 众多主题</font>)
+
+[//]: # (<br>)
+
+[GitHub](https://github.com/Originator2019)
+[Gitee](https://gitee.com/originator2021)
+[Get Started](README.md)
+
+<!--[腾讯工蜂](https://git.code.tencent.com/u/v_vyhwang) -->
+[//]: # ([GitCode]&#40;https://gitcode.net/CS_1992&#41;)
