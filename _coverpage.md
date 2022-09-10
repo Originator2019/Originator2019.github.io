@@ -2,7 +2,7 @@
 
 
 <img src="image/xly.jpg" width="50%" style="border-radius: 100%" alt="Smiley face">
-// 首页图片
+<!--  首页图片 -->
 <br>
 <br>
 <div style="color: black ; font-size:45px ">
