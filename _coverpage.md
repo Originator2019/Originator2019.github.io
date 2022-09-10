@@ -10,8 +10,9 @@ Work hard for your dreams
 </div>
 <br>
 <br>
-<font size="38" face="华文行楷" color="black">
-为梦想而奋斗</font>
+<div style="color: black ; font-size:45px ">
+为梦想而奋斗
+</div>
 
 <br>
 <br>
@@ -22,7 +23,7 @@ Work hard for your dreams
 
 [//]: # (- 众多主题</font>)
 
-[//]: # (<br>)
+<br>
 
 [GitHub](https://github.com/Originator2019)
 [Gitee](https://gitee.com/originator2021)
